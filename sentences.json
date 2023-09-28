@@ -1,3 +1,4 @@
+
 {
   "1": {
     "sentences": [
@@ -7,116 +8,596 @@
   },
   "2": {
     "sentences": [
-      "She sings beautifully.",
-      "Her singing is absolutely gorgeous."
+      "He cooks delicious meals.",
+      "His meals are always tasty."
     ]
   },
   "3": {
     "sentences": [
-      "They love playing soccer.",
-      "Playing soccer is their passion."
+      "She plays the piano skillfully.",
+      "Playing the piano is her expertise."
     ]
   },
   "4": {
     "sentences": [
-      "He enjoys cooking new recipes.",
-      "Cooking new recipes is his favorite hobby."
+      "They love to travel the world.",
+      "Traveling the world is their passion."
     ]
   },
   "5": {
     "sentences": [
-      "My sister dances gracefully.",
-      "Her graceful dance moves always mesmerize the audience."
+      "He works hard to achieve his goals.",
+      "Hard work is the key to his success."
     ]
   },
   "6": {
     "sentences": [
-      "We often travel to new places.",
-      "Exploring new places is something we do frequently."
+      "She teaches English at the university.",
+      "Teaching English at the university is her profession."
     ]
   },
   "7": {
     "sentences": [
-      "They speak multiple languages.",
-      "Being multilingual is one of their impressive abilities."
+      "I enjoy swimming in the ocean.",
+      "Swimming in the ocean is my favorite activity."
     ]
   },
   "8": {
     "sentences": [
-      "I swim in the ocean every summer.",
-      "Swimming in the ocean during the summer is a tradition for me."
+      "He drives a fast sports car.",
+      "Driving a fast sports car is his thrill."
     ]
   },
   "9": {
     "sentences": [
-      "He runs marathons regularly.",
-      "Running marathons is a part of his routine."
+      "They hike in the mountains every weekend.",
+      "Hiking in the mountains is their weekend routine."
     ]
   },
   "10": {
     "sentences": [
-      "She paints beautiful landscapes.",
-      "Creating beautiful landscapes through painting is her talent."
+      "She practices yoga for relaxation.",
+      "Practicing yoga helps her relax."
     ]
   },
   "11": {
     "sentences": [
-      "We enjoy watching movies together.",
-      "Watching movies together is our favorite bonding activity."
+      "I admire talented musicians.",
+      "Admiring talented musicians is something I do often."
     ]
   },
   "12": {
     "sentences": [
-      "They play musical instruments skillfully.",
-      "Playing musical instruments skillfully is their forte."
+      "He studies astronomy in his free time.",
+      "Studying astronomy is his hobby."
     ]
   },
   "13": {
     "sentences": [
-      "I practice yoga every morning.",
-      "Practicing yoga is a daily ritual for me."
+      "She volunteers at the local shelter.",
+      "Volunteering at the local shelter is her way of giving back."
     ]
   },
   "14": {
     "sentences": [
-      "He writes insightful poems.",
-      "Writing insightful poems is his creative outlet."
+      "They practice martial arts for discipline.",
+      "Practicing martial arts helps them maintain discipline."
     ]
   },
   "15": {
     "sentences": [
-      "She codes computer programs effectively.",
-      "Coding computer programs effectively is her expertise."
+      "He writes poetry in his spare time.",
+      "Writing poetry is his creative outlet."
     ]
   },
   "16": {
     "sentences": [
-      "They study diligently for their exams.",
-      "Studying diligently for exams is their key to success."
+      "She designs beautiful websites.",
+      "Designing beautiful websites is her profession."
     ]
   },
   "17": {
     "sentences": [
-      "I enjoy hiking in the mountains.",
-      "Hiking in the mountains is a thrilling experience for me."
+      "I appreciate fine art.",
+      "Appreciating fine art is something I enjoy."
     ]
   },
   "18": {
     "sentences": [
-      "He travels to different countries frequently.",
-      "Frequent travel to different countries is a part of his job."
+      "He sketches amazing portraits.",
+      "Sketching amazing portraits is his talent."
     ]
   },
   "19": {
     "sentences": [
-      "She creates amazing sculptures.",
-      "Creating amazing sculptures is her passion and profession."
+      "She bakes delicious cakes.",
+      "Baking delicious cakes is her passion."
     ]
   },
   "20": {
     "sentences": [
-      "We love exploring new cultures.",
-      "Exploring new cultures is a fascinating adventure for us."
+      "They plant trees to help the environment.",
+      "Planting trees to help the environment is their contribution."
+    ]
+  },
+  "21": {
+    "sentences": [
+      "I read the news every morning.",
+      "Reading the news every morning is my routine."
+    ]
+  },
+  "22": {
+    "sentences": [
+      "He enjoys watching movies on weekends.",
+      "Watching movies on weekends is his favorite pastime."
+    ]
+  },
+  "23": {
+    "sentences": [
+      "She practices meditation for inner peace.",
+      "Practicing meditation for inner peace is her way of relaxation."
+    ]
+  },
+  "24": {
+    "sentences": [
+      "They appreciate fine dining experiences.",
+      "Appreciating fine dining experiences is something they enjoy."
+    ]
+  },
+  "25": {
+    "sentences": [
+      "I go for a run every morning.",
+      "Going for a run every morning is my daily exercise."
+    ]
+  },
+  "26": {
+    "sentences": [
+      "He learns new languages for personal growth.",
+      "Learning new languages for personal growth is his goal."
+    ]
+  },
+  "27": {
+    "sentences": [
+      "She practices photography as a hobby.",
+      "Practicing photography as a hobby is her creative outlet."
+    ]
+  },
+  "28": {
+    "sentences": [
+      "I explore new cultures when I travel.",
+      "Exploring new cultures when I travel is my passion."
+    ]
+  },
+  "29": {
+    "sentences": [
+      "He enjoys hiking in the countryside.",
+      "Hiking in the countryside is his preferred outdoor activity."
+    ]
+  },
+  "30": {
+    "sentences": [
+      "She enjoys playing video games in her free time.",
+      "Playing video games in her free time is her way of relaxing."
+    ]
+  },
+  "31": {
+    "sentences": [
+      "I practice mindfulness for mental well-being.",
+      "Practicing mindfulness for mental well-being is important to me."
+    ]
+  },
+  "32": {
+    "sentences": [
+      "He appreciates classical music performances.",
+      "Appreciating classical music performances is something he enjoys."
+    ]
+  },
+  "33": {
+    "sentences": [
+      "She loves to cook international cuisines.",
+      "Cooking international cuisines is her culinary passion."
+    ]
+  },
+  "34": {
+    "sentences": [
+      "They volunteer at the local community center.",
+      "Volunteering at the local community center is their way of giving back."
+    ]
+  },
+  "35": {
+    "sentences": [
+      "I enjoy running marathons.",
+      "Running marathons is my fitness goal."
+    ]
+  },
+  "36": {
+    "sentences": [
+      "He practices public speaking for self-improvement.",
+      "Practicing public speaking for self-improvement is his personal goal."
+    ]
+  },
+  "37": {
+    "sentences": [
+      "She learns to play musical instruments.",
+      "Learning to play musical instruments is her musical journey."
+    ]
+  },
+  "38": {
+    "sentences": [
+      "I love to paint landscapes.",
+      "Painting landscapes is my artistic expression."
+    ]
+  },
+  "39": {
+    "sentences": [
+      "He enjoys reading science fiction novels.",
+      "Reading science fiction novels is his favorite pastime."
+    ]
+  },
+  "40": {
+    "sentences": [
+      "She practices calligraphy for relaxation.",
+      "Practicing calligraphy for relaxation is her way of unwinding."
+    ]
+  },
+  "41": {
+    "sentences": [
+      "I appreciate a good cup of coffee.",
+      "Appreciating a good cup of coffee is something I enjoy."
+    ]
+  },
+  "42": {
+    "sentences": [
+      "He loves to go camping in the mountains.",
+      "Going camping in the mountains is his outdoor adventure."
+    ]
+  },
+  "43": {
+    "sentences": [
+      "She enjoys solving challenging puzzles.",
+      "Solving challenging puzzles is her favorite pastime."
+    ]
+  },
+  "44": {
+    "sentences": [
+      "They practice yoga for physical fitness.",
+      "Practicing yoga for physical fitness is their health goal."
+    ]
+  },
+  "45": {
+    "sentences": [
+      "I explore art galleries and exhibitions.",
+      "Exploring art galleries and exhibitions is my cultural interest."
+    ]
+  },
+  "46": {
+    "sentences": [
+      "He volunteers at a local animal shelter.",
+      "Volunteering at a local animal shelter is his way of giving back."
+    ]
+  },
+  "47": {
+    "sentences": [
+      "She practices mindfulness for stress relief.",
+      "Practicing mindfulness for stress relief is her coping mechanism."
+    ]
+  },
+  "48": {
+    "sentences": [
+      "I enjoy hiking in the woods.",
+      "Hiking in the woods is my preferred outdoor activity."
+    ]
+  },
+  "49": {
+    "sentences": [
+      "He appreciates contemporary art.",
+      "Appreciating contemporary art is something he enjoys."
+    ]
+  },
+  "50": {
+    "sentences": [
+      "She loves to travel and experience new cultures.",
+      "Traveling and experiencing new cultures is her passion."
+    ]
+  },
+  "51": {
+    "sentences": [
+      "I practice mindfulness for mental clarity.",
+      "Practicing mindfulness for mental clarity is important to me."
+    ]
+  },
+  "52": {
+    "sentences": [
+      "He enjoys tasting different cuisines.",
+      "Tasting different cuisines is his culinary adventure."
+    ]
+  },
+  "53": {
+    "sentences": [
+      "She practices photography to capture moments.",
+      "Practicing photography to capture moments is her creative outlet."
+    ]
+  },
+  "54": {
+    "sentences": [
+      "I appreciate classical music performances.",
+      "Appreciating classical music performances is something I enjoy."
+    ]
+  },
+  "55": {
+    "sentences": [
+      "He loves to experiment with new recipes.",
+      "Experimenting with new recipes is his culinary passion."
+    ]
+  },
+  "56": {
+    "sentences": [
+      "She volunteers at a local charity organization.",
+      "Volunteering at a local charity organization is her way of giving back."
+    ]
+  },
+  "57": {
+    "sentences": [
+      "I enjoy running in the park.",
+      "Running in the park is my preferred outdoor activity."
+    ]
+  },
+  "58": {
+    "sentences": [
+      "He practices mindfulness for inner peace.",
+      "Practicing mindfulness for inner peace is his way of relaxation."
+    ]
+  },
+  "59": {
+    "sentences": [
+      "She loves to dance in her free time.",
+      "Dancing in her free time is her favorite pastime."
+    ]
+  },
+  "60": {
+    "sentences": [
+      "They volunteer at a local soup kitchen.",
+      "Volunteering at a local soup kitchen is their way of giving back."
+    ]
+  },
+  "61": {
+    "sentences": [
+      "I appreciate fine cuisine.",
+      "Appreciating fine cuisine is something I enjoy."
+    ]
+  },
+  "62": {
+    "sentences": [
+      "He enjoys playing sports with friends.",
+      "Playing sports with friends is his favorite pastime."
+    ]
+  },
+  "63": {
+    "sentences": [
+      "She practices mindfulness for emotional well-being.",
+      "Practicing mindfulness for emotional well-being is her way of coping."
+    ]
+  },
+  "64": {
+    "sentences": [
+      "I love to cook and try new recipes.",
+      "Cooking and trying new recipes is my culinary adventure."
+    ]
+  },
+  "65": {
+    "sentences": [
+      "He appreciates art exhibitions and galleries.",
+      "Appreciating art exhibitions and galleries is something he enjoys."
+    ]
+  },
+  "66": {
+    "sentences": [
+      "She loves to paint landscapes and nature.",
+      "Painting landscapes and nature is her artistic expression."
+    ]
+  },
+  "67": {
+    "sentences": [
+      "I explore new cities and their culture.",
+      "Exploring new cities and their culture is my passion."
+    ]
+  },
+  "68": {
+    "sentences": [
+      "He enjoys hiking in the mountains on weekends.",
+      "Hiking in the mountains on weekends is his preferred outdoor activity."
+    ]
+  },
+  "69": {
+    "sentences": [
+      "She practices mindfulness for mental relaxation.",
+      "Practicing mindfulness for mental relaxation is her way of unwinding."
+    ]
+  },
+  "70": {
+    "sentences": [
+      "I appreciate a well-brewed cup of coffee.",
+      "Appreciating a well-brewed cup of coffee is something I enjoy."
+    ]
+  },
+  "71": {
+    "sentences": [
+      "He loves to travel and explore new destinations.",
+      "Traveling and exploring new destinations is his passion."
+    ]
+  },
+  "72": {
+    "sentences": [
+      "She practices yoga for physical and mental wellness.",
+      "Practicing yoga for physical and mental wellness is her health goal."
+    ]
+  },
+  "73": {
+    "sentences": [
+      "I enjoy hiking in the great outdoors.",
+      "Hiking in the great outdoors is my preferred outdoor activity."
+    ]
+  },
+  "74": {
+    "sentences": [
+      "He appreciates classical music concerts.",
+      "Appreciating classical music concerts is something he enjoys."
+    ]
+  },
+  "75": {
+    "sentences": [
+      "She loves to experiment with new baking recipes.",
+      "Experimenting with new baking recipes is her culinary adventure."
+    ]
+  },
+  "76": {
+    "sentences": [
+      "They volunteer at a local animal rescue organization.",
+      "Volunteering at a local animal rescue organization is their way of giving back."
+    ]
+  },
+  "77": {
+    "sentences": [
+      "I enjoy jogging in the park.",
+      "Jogging in the park is my preferred outdoor activity."
+    ]
+  },
+  "78": {
+    "sentences": [
+      "He practices mindfulness for mental clarity and focus.",
+      "Practicing mindfulness for mental clarity and focus is his way of improving productivity."
+    ]
+  },
+  "79": {
+    "sentences": [
+      "She loves to dance and express herself through movement.",
+      "Dancing and expressing herself through movement is her favorite pastime."
+    ]
+  },
+  "80": {
+    "sentences": [
+      "I volunteer at a local community center to help those in need.",
+      "Volunteering at a local community center to help those in need is my way of giving back."
+    ]
+  },
+  "81": {
+    "sentences": [
+      "I enjoy exploring different cuisines and trying new dishes.",
+      "Exploring different cuisines and trying new dishes is something I enjoy."
+    ]
+  },
+  "82": {
+    "sentences": [
+      "He loves to play basketball with friends during the weekends.",
+      "Playing basketball with friends during the weekends is his favorite pastime."
+    ]
+  },
+  "83": {
+    "sentences": [
+      "She practices mindfulness for emotional balance and well-being.",
+      "Practicing mindfulness for emotional balance and well-being is her way of finding peace."
+    ]
+  },
+  "84": {
+    "sentences": [
+      "I enjoy experimenting with new cooking techniques and flavors.",
+      "Experimenting with new cooking techniques and flavors is my culinary adventure."
+    ]
+  },
+  "85": {
+    "sentences": [
+      "He appreciates modern art and contemporary artists.",
+      "Appreciating modern art and contemporary artists is something he enjoys."
+    ]
+  },
+  "86": {
+    "sentences": [
+      "She loves to explore new hiking trails and natural landscapes.",
+      "Exploring new hiking trails and natural landscapes is her preferred outdoor activity."
+    ]
+  },
+  "87": {
+    "sentences": [
+      "I practice mindfulness for mental relaxation and stress relief.",
+      "Practicing mindfulness for mental relaxation and stress relief is important to me."
+    ]
+  },
+  "88": {
+    "sentences": [
+      "I enjoy attending live music concerts and experiencing the energy.",
+      "Attending live music concerts and experiencing the energy is something I enjoy."
+    ]
+  },
+  "89": {
+    "sentences": [
+      "He loves to travel and immerse himself in different cultures.",
+      "Traveling and immersing himself in different cultures is his passion."
+    ]
+  },
+  "90": {
+    "sentences": [
+      "She practices yoga for physical strength and mental clarity.",
+      "Practicing yoga for physical strength and mental clarity is her health goal."
+    ]
+  },
+  "91": {
+    "sentences": [
+      "I enjoy hiking in scenic locations and capturing the beauty in photographs.",
+      "Hiking in scenic locations and capturing the beauty in photographs is my preferred outdoor activity."
+    ]
+  },
+  "92": {
+    "sentences": [
+      "He appreciates fine wine and enjoys tasting different varieties.",
+      "Appreciating fine wine and enjoying tasting different varieties is something he enjoys."
+    ]
+  },
+  "93": {
+    "sentences": [
+      "She loves to experiment with new dessert recipes and baking techniques.",
+      "Experimenting with new dessert recipes and baking techniques is her culinary adventure."
+    ]
+  },
+  "94": {
+    "sentences": [
+      "They volunteer at a local children's charity organization.",
+      "Volunteering at a local children's charity organization is their way of giving back."
+    ]
+  },
+  "95": {
+    "sentences": [
+      "I enjoy jogging in nature and being surrounded by greenery.",
+      "Jogging in nature and being surrounded by greenery is my preferred outdoor activity."
+    ]
+  },
+  "96": {
+    "sentences": [
+      "He practices mindfulness for mental clarity and inner peace.",
+      "Practicing mindfulness for mental clarity and inner peace is his way of relaxation."
+    ]
+  },
+  "97": {
+    "sentences": [
+      "She loves to dance and express herself through movement and creativity.",
+      "Dancing and expressing herself through movement and creativity is her favorite pastime."
+    ]
+  },
+  "98": {
+    "sentences": [
+      "I volunteer at a local shelter to help animals in need.",
+      "Volunteering at a local shelter to help animals in need is my way of giving back."
+    ]
+  },
+  "99": {
+    "sentences": [
+      "I enjoy exploring different cultural festivals and events.",
+      "Exploring different cultural festivals and events is something I enjoy."
+    ]
+  },
+  "100": {
+    "sentences": [
+      "He loves to play soccer with friends during the weekends.",
+      "Playing soccer with friends during the weekends is his favorite pastime."
     ]
   }
 }

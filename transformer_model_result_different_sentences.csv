@@ -1,0 +1,101 @@
+;sent1;sent2;all-MiniLM-L6-v2;all-MiniLM-L12-v2;all-mpnet-base-v2;all-distilroberta-v1
+1;He loves to play soccer with friends during the weekends.;Reading books is something I enjoy.;0.18937048;0.20978224;0.16950968;0.09893569
+2;I enjoy exploring different cultural festivals and events.;His meals are always tasty.;0.16117069;0.14079696;0.07916374;0.14604692
+3;I volunteer at a local shelter to help animals in need.;Playing the piano is her expertise.;0.009756628;0.09711299;0.11264211;0.047330093
+4;She loves to dance and express herself through movement and creativity.;Traveling the world is their passion.;0.24908131;0.27042994;0.23264447;0.15695938
+5;He practices mindfulness for mental clarity and inner peace.;Hard work is the key to his success.;0.28115726;0.38038105;0.36278293;0.3185888
+6;I enjoy jogging in nature and being surrounded by greenery.;Teaching English at the university is her profession.;0.026289325;0.06170333;0.036905475;0.04198946
+7;They volunteer at a local children's charity organization.;Swimming in the ocean is my favorite activity.;0.07689781;0.085772514;0.078149565;0.086639
+8;She loves to experiment with new dessert recipes and baking techniques.;Driving a fast sports car is his thrill.;0.03414807;0.09129863;0.057380356;0.105143726
+9;He appreciates fine wine and enjoys tasting different varieties.;Hiking in the mountains is their weekend routine.;0.14050631;0.14258553;0.112211645;0.13116731
+10;I enjoy hiking in scenic locations and capturing the beauty in photographs.;Practicing yoga helps her relax.;0.08813882;0.082741134;0.1012903;0.10789533
+11;She practices yoga for physical strength and mental clarity.;Admiring talented musicians is something I do often.;0.13409582;0.09909342;0.16313985;0.084151834
+12;He loves to travel and immerse himself in different cultures.;Studying astronomy is his hobby.;0.43930525;0.48726675;0.3923051;0.4689884
+13;I enjoy attending live music concerts and experiencing the energy.;Volunteering at the local shelter is her way of giving back.;0.11899227;0.16499172;0.1324389;0.15750298
+14;I practice mindfulness for mental relaxation and stress relief.;Practicing martial arts helps them maintain discipline.;0.30996856;0.3428375;0.29462707;0.32061243
+15;She loves to explore new hiking trails and natural landscapes.;Writing poetry is his creative outlet.;0.20395522;0.20995213;0.17429161;0.19105102
+16;He appreciates modern art and contemporary artists.;Designing beautiful websites is her profession.;0.33555338;0.32564306;0.3555493;0.25031295
+17;I enjoy experimenting with new cooking techniques and flavors.;Appreciating fine art is something I enjoy.;0.36107144;0.3654406;0.37352332;0.36707294
+18;She practices mindfulness for emotional balance and well-being.;Sketching amazing portraits is his talent.;0.105614305;0.09890467;0.18129013;0.06548764
+19;He loves to play basketball with friends during the weekends.;Baking delicious cakes is her passion.;0.100899175;0.12528244;0.15763192;0.090926155
+20;I enjoy exploring different cuisines and trying new dishes.;Planting trees to help the environment is their contribution.;0.041443825;0.079898834;0.0247874;0.027540687
+21;I volunteer at a local community center to help those in need.;Reading the news every morning is my routine.;0.14427501;0.21549839;0.25887206;0.24322632
+22;She loves to dance and express herself through movement.;Watching movies on weekends is his favorite pastime.;0.16403957;0.22141233;0.17067964;0.13794205
+23;He practices mindfulness for mental clarity and focus.;Practicing meditation for inner peace is her way of relaxation.;0.52658516;0.5861443;0.5574866;0.5244192
+24;I enjoy jogging in the park.;Appreciating fine dining experiences is something they enjoy.;0.25392312;0.20543373;0.14250205;0.13534737
+25;They volunteer at a local animal rescue organization.;Going for a run every morning is my daily exercise.;0.017563414;0.039740197;0.056598708;0.05423495
+26;She loves to experiment with new baking recipes.;Learning new languages for personal growth is his goal.;0.2185565;0.26610097;0.23071891;0.18363208
+27;He appreciates classical music concerts.;Practicing photography as a hobby is her creative outlet.;0.1777009;0.23405215;0.25232035;0.18495232
+28;I enjoy hiking in the great outdoors.;Exploring new cultures when I travel is my passion.;0.3828071;0.43287364;0.5170444;0.47188878
+29;She practices yoga for physical and mental wellness.;Hiking in the countryside is his preferred outdoor activity.;0.17878413;0.16632625;0.19116792;0.135586
+30;He loves to travel and explore new destinations.;Playing video games in her free time is her way of relaxing.;0.2037078;0.25588292;0.17462495;0.21167807
+31;I appreciate a well-brewed cup of coffee.;Practicing mindfulness for mental well-being is important to me.;0.23441905;0.21823317;0.2782934;0.16980065
+32;She practices mindfulness for mental relaxation.;Appreciating classical music performances is something he enjoys.;0.18581352;0.22089331;0.28870374;0.19631806
+33;He enjoys hiking in the mountains on weekends.;Cooking international cuisines is her culinary passion.;-0.02621521;0.00492444;0.1028682;0.065690115
+34;I explore new cities and their culture.;Volunteering at the local community center is their way of giving back.;0.2631068;0.22910024;0.1907279;0.1643928
+35;She loves to paint landscapes and nature.;Running marathons is my fitness goal.;0.06418855;0.1368917;0.060774386;0.040785998
+36;He appreciates art exhibitions and galleries.;Practicing public speaking for self-improvement is his personal goal.;0.27674142;0.23567834;0.31770012;0.31860864
+37;I love to cook and try new recipes.;Learning to play musical instruments is her musical journey.;0.14155391;0.20033161;0.16561052;0.12246807
+38;She practices mindfulness for emotional well-being.;Painting landscapes is my artistic expression.;0.10921593;0.14649242;0.1985079;0.14796078
+39;He enjoys playing sports with friends.;Reading science fiction novels is his favorite pastime.;0.3279101;0.42460233;0.33422127;0.28329265
+40;I appreciate fine cuisine.;Practicing calligraphy for relaxation is her way of unwinding.;0.10469225;0.025151836;0.103735246;0.050246328
+41;They volunteer at a local soup kitchen.;Appreciating a good cup of coffee is something I enjoy.;0.10095984;0.22511774;0.08883852;0.122844405
+42;She loves to dance in her free time.;Going camping in the mountains is his outdoor adventure.;0.16397694;0.16491535;0.09846684;0.19660029
+43;He practices mindfulness for inner peace.;Solving challenging puzzles is her favorite pastime.;0.14309317;0.17329085;0.2913499;0.1373446
+44;I enjoy running in the park.;Practicing yoga for physical fitness is their health goal.;0.19729386;0.23999542;0.15231092;0.18428335
+45;She volunteers at a local charity organization.;Exploring art galleries and exhibitions is my cultural interest.;0.08603173;0.11065273;0.21885389;0.15589884
+46;He loves to experiment with new recipes.;Volunteering at a local animal shelter is his way of giving back.;0.22802535;0.2657338;0.32250977;0.26671517
+47;I appreciate classical music performances.;Practicing mindfulness for stress relief is her coping mechanism.;-0.031025011;0.016457146;0.049293272;0.0593917
+48;She practices photography to capture moments.;Hiking in the woods is my preferred outdoor activity.;0.14020592;0.15956846;0.1694721;0.16913368
+49;He enjoys tasting different cuisines.;Appreciating contemporary art is something he enjoys.;0.41500598;0.39984328;0.40329534;0.44421253
+50;I practice mindfulness for mental clarity.;Traveling and experiencing new cultures is her passion.;0.16008545;0.17588018;0.12198508;0.14910443
+51;She loves to travel and experience new cultures.;Practicing mindfulness for mental clarity is important to me.;0.08995212;0.13555211;0.13037002;0.16975607
+52;He appreciates contemporary art.;Tasting different cuisines is his culinary adventure.;0.394638;0.39242354;0.3825178;0.40716392
+53;I enjoy hiking in the woods.;Practicing photography to capture moments is her creative outlet.;0.1988531;0.18070075;0.15814042;0.20339242
+54;She practices mindfulness for stress relief.;Appreciating classical music performances is something I enjoy.;0.10998355;0.119275145;0.19756368;0.16442305
+55;He volunteers at a local animal shelter.;Experimenting with new recipes is his culinary passion.;0.2008329;0.1921911;0.29059544;0.28853506
+56;I explore art galleries and exhibitions.;Volunteering at a local charity organization is her way of giving back.;0.117772505;0.18044879;0.18872055;0.14273061
+57;They practice yoga for physical fitness.;Running in the park is my preferred outdoor activity.;0.26483706;0.28677392;0.21182752;0.23419605
+58;She enjoys solving challenging puzzles.;Practicing mindfulness for inner peace is his way of relaxation.;0.13344002;0.16288556;0.177353;0.103832915
+59;He loves to go camping in the mountains.;Dancing in her free time is her favorite pastime.;0.20542076;0.23567054;0.15587647;0.21174693
+60;I appreciate a good cup of coffee.;Volunteering at a local soup kitchen is their way of giving back.;0.20034365;0.2115812;0.1597818;0.19766253
+61;She practices calligraphy for relaxation.;Appreciating fine cuisine is something I enjoy.;0.10949082;0.08187549;0.12899041;0.08409734
+62;He enjoys reading science fiction novels.;Playing sports with friends is his favorite pastime.;0.3929133;0.5300356;0.38015857;0.4063575
+63;I love to paint landscapes.;Practicing mindfulness for emotional well-being is her way of coping.;-0.002478823;0.004835016;0.03722761;0.06076876
+64;She learns to play musical instruments.;Cooking and trying new recipes is my culinary adventure.;0.120073035;0.22080627;0.21500877;0.09503172
+65;He practices public speaking for self-improvement.;Appreciating art exhibitions and galleries is something he enjoys.;0.22854494;0.26018313;0.3819716;0.37892693
+66;I enjoy running marathons.;Painting landscapes and nature is her artistic expression.;0.13023517;0.16785052;0.16857427;0.05974146
+67;They volunteer at the local community center.;Exploring new cities and their culture is my passion.;0.36100495;0.23346944;0.16733977;0.17756686
+68;She loves to cook international cuisines.;Hiking in the mountains on weekends is his preferred outdoor activity.;0.028669428;0.12118207;0.13987522;0.13591109
+69;He appreciates classical music performances.;Practicing mindfulness for mental relaxation is her way of unwinding.;0.1247867;0.09787546;0.1926852;0.15324181
+70;I practice mindfulness for mental well-being.;Appreciating a well-brewed cup of coffee is something I enjoy.;0.31064087;0.2848873;0.2701406;0.29117662
+71;She enjoys playing video games in her free time.;Traveling and exploring new destinations is his passion.;0.23473388;0.23618354;0.19751394;0.14506127
+72;He enjoys hiking in the countryside.;Practicing yoga for physical and mental wellness is her health goal.;0.07540704;0.07843763;0.09315361;0.13571319
+73;I explore new cultures when I travel.;Hiking in the great outdoors is my preferred outdoor activity.;0.3720226;0.41331333;0.46376744;0.3338275
+74;She practices photography as a hobby.;Appreciating classical music concerts is something he enjoys.;0.16063008;0.23889431;0.23189753;0.120564625
+75;He learns new languages for personal growth.;Experimenting with new baking recipes is her culinary adventure.;0.21592113;0.32242936;0.24759728;0.22896817
+76;I go for a run every morning.;Volunteering at a local animal rescue organization is their way of giving back.;0.09435885;0.10983479;0.10952591;0.04918789
+77;They appreciate fine dining experiences.;Jogging in the park is my preferred outdoor activity.;0.14773408;0.09741988;0.061329674;0.057682708
+78;She practices meditation for inner peace.;Practicing mindfulness for mental clarity and focus is his way of improving productivity.;0.37334543;0.41082162;0.46664348;0.35218695
+79;He enjoys watching movies on weekends.;Dancing and expressing herself through movement is her favorite pastime.;0.15612984;0.23815039;0.24053907;0.20609544
+80;I read the news every morning.;Volunteering at a local community center to help those in need is my way of giving back.;0.03363099;0.0039408226;0.08982035;0.048336282
+81;They plant trees to help the environment.;Exploring different cuisines and trying new dishes is something I enjoy.;0.0003254786;0.09873767;0.041857295;0.025002658
+82;She bakes delicious cakes.;Playing basketball with friends during the weekends is his favorite pastime.;0.05790053;0.11161258;0.12343785;0.06839791
+83;He sketches amazing portraits.;Practicing mindfulness for emotional balance and well-being is her way of finding peace.;-0.0011442117;-0.022310788;0.17521378;0.08642857
+84;I appreciate fine art.;Experimenting with new cooking techniques and flavors is my culinary adventure.;0.13387986;0.1426009;0.22844942;0.18192849
+85;She designs beautiful websites.;Appreciating modern art and contemporary artists is something he enjoys.;0.26389235;0.30994004;0.2951931;0.24790978
+86;He writes poetry in his spare time.;Exploring new hiking trails and natural landscapes is her preferred outdoor activity.;0.1386644;0.21407022;0.21624547;0.19797802
+87;They practice martial arts for discipline.;Practicing mindfulness for mental relaxation and stress relief is important to me.;0.14891547;0.21523431;0.1760793;0.2160476
+88;She volunteers at the local shelter.;Attending live music concerts and experiencing the energy is something I enjoy.;0.0728441;0.111035086;0.0874087;0.075310364
+89;He studies astronomy in his free time.;Traveling and immersing himself in different cultures is his passion.;0.39412302;0.42035154;0.44614273;0.3890027
+90;I admire talented musicians.;Practicing yoga for physical strength and mental clarity is her health goal.;0.0013087001;0.024093468;0.09638757;-0.004755092
+91;She practices yoga for relaxation.;Hiking in scenic locations and capturing the beauty in photographs is my preferred outdoor activity.;0.23051593;0.14323214;0.23116666;0.16239561
+92;They hike in the mountains every weekend.;Appreciating fine wine and enjoying tasting different varieties is something he enjoys.;0.1610342;0.15551391;0.15563086;0.1207252
+93;He drives a fast sports car.;Experimenting with new dessert recipes and baking techniques is her culinary adventure.;-0.08046165;0.0343516;-0.01771037;0.06864142
+94;I enjoy swimming in the ocean.;Volunteering at a local children's charity organization is their way of giving back.;0.045450345;0.057784636;0.03533037;0.06403519
+95;She teaches English at the university.;Jogging in nature and being surrounded by greenery is my preferred outdoor activity.;0.022406053;-0.0023024008;0.0018730406;0.013547921
+96;He works hard to achieve his goals.;Practicing mindfulness for mental clarity and inner peace is his way of relaxation.;0.25443405;0.29317585;0.29016256;0.35738343
+97;They love to travel the world.;Dancing and expressing herself through movement and creativity is her favorite pastime.;0.16040878;0.30852544;0.25964957;0.1693562
+98;She plays the piano skillfully.;Volunteering at a local shelter to help animals in need is my way of giving back.;-0.008048318;-0.012263612;-0.0042337733;-0.03900282
+99;He cooks delicious meals.;Exploring different cultural festivals and events is something I enjoy.;0.083629325;0.07271966;0.15598142;0.1398389
+100;I like to read books.;Playing soccer with friends during the weekends is his favorite pastime.;0.18083283;0.24162108;0.28062925;0.1458297

@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 from sklearn.metrics.pairwise import cosine_similarity
 from transformers import AutoTokenizer, AutoModel
-
+ 
 
 class SentenceTransformer:
     def __init__(self, model_name: str):
